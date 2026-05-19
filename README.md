@@ -1,6 +1,34 @@
 # 💫 About Me:
-Full Stack PHP Laravel Reactjs Developer 
+Hi, I'm Hasaan — a Full Stack Developer with 4+ years of experience building scalable web applications, SaaS platforms, and modern business solutions using Laravel, ReactJS, Next.js, and MySQL.
 
+I specialize in developing high-performance backend systems, REST APIs, admin dashboards, ERP solutions, AI-powered tools, and custom CMS platforms. I enjoy transforming complex business ideas into clean, efficient, and user-friendly digital products.
+
+Over the years, I’ve worked on projects including:
+
+ERP Systems for eCommerce businesses
+AI Writing & SEO Tools
+Car Rental Management Platforms
+PDF DRM & Flipbook Viewer Systems
+Authentication & Multi-role Systems
+API Development with Laravel Sanctum
+Modern Admin Panels & Dashboards
+Tech Stack
+Backend: Laravel, PHP, REST APIs
+Frontend: ReactJS, Next.js, Blade, Inertia.js
+Database: MySQL
+Tools & Cloud: Git, AWS, VPS Hosting, Docker
+Other Skills: SEO, SaaS Architecture, System Design
+
+I’m passionate about building scalable products, writing clean code, and continuously learning new technologies to create impactful software solutions.
+
+Current Focus
+SaaS Product Development
+ERP Systems
+AI-powered Web Applications
+Scalable Cloud Infrastructure
+Modern UI/UX Experiences
+
+Feel free to explore my repositories and connect with me for collaboration or interesting projects.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/muhammad-hasaan-haider/) 
